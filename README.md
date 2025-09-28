@@ -1,9 +1,10 @@
 # Gen-X
 
-Generative Vfx 
+video inpaiting 
 
-supporting 60 fps , 1920x1080 
+featuring 60 fps , 1920x1080 
+hardware used : 2x t4 
 
 video inpainitng
 video2video 
-video refrence
+image refrence 
