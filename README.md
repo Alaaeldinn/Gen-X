@@ -27,5 +27,5 @@ Tasks:
 - [x] image refrence 
 
 Todo: 
-- [-] optimization
+- [ ] optimization
   
