@@ -1,6 +1,6 @@
 # Gen-X
 
-**video inpaiting**
+**Generative video inpaiting**
 
 
 https://github.com/user-attachments/assets/4721a0c2-c75a-475f-b1c1-41689ad4be14
